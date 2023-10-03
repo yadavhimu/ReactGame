@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactGame/static/css/main.ce807513.css",
+    "main.js": "/ReactGame/static/js/main.015ef97f.js",
+    "index.html": "/ReactGame/index.html",
+    "main.ce807513.css.map": "/ReactGame/static/css/main.ce807513.css.map",
+    "main.015ef97f.js.map": "/ReactGame/static/js/main.015ef97f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce807513.css",
+    "static/js/main.015ef97f.js"
+  ]
+}
